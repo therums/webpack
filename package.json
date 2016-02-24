@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/therums/webpack/issues"
   },
-  "homepage": "https://github.com/therums/webpack#readme"
+  "homepage": "https://github.com/therums/webpack#readme",
+  "dependencies": {
+    "browser-sync-webpack-plugin": "^1.0.1"
+  }
 }

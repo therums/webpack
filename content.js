@@ -1,2 +1,1 @@
-module.exports = "it works from content.js yep"
-alert("hello")
+module.exports = "Refresh does works from content.js"
